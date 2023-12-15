@@ -1,4 +1,4 @@
-# Google Earth Engine: Demos y Tutoriales
+# Google Earth Engine: Cursos, Demos y Tutoriales
 
 Este repositorio alberga una serie de demos y tutoriales desarrollados utilizando Google Earth Engine para proporcionar ejemplos prácticos y guías paso a paso para su uso.
 
