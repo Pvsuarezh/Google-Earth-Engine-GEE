@@ -2,7 +2,7 @@
 
 Este repositorio almacena scripts y recursos utilizados en proyectos de evaluación del crecimiento urbano, seguimiento de cambios en infraestructura, y planificación del uso del suelo utilizando Google Earth Engine.
 <p align="center">
-  <img src="Img/12804.png" alt="Texto alternativo">
+  <img src="img/12804.png" alt="Texto alternativo">
 </p>
 ## Descripción del Proyecto
 
