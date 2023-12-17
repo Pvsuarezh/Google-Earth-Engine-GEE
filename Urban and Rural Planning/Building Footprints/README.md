@@ -1,7 +1,7 @@
 # Open Buildings Footprints
 
 <p align="center">
-  <img src="img/12804.png" alt="Texto alternativo">
+  <img src="img/Cap_bul.png" alt="Texto alternativo">
 </p>
 
 Bing Maps is releasing open building footprints around the world. We have detected 777M buildings from Bing Maps imagery between 2014 and 2021 including Maxar and Airbus imagery. For the sake of completeness datasets from earlier releases were included in this dataset and included. You can find the Github repo and more information about the [methodology here](https://github.com/microsoft/GlobalMLBuildingFootprints). Datasets are zipped and available as GeoJSON and GeoJSONL files from different regions. Additional information on preprocessing and some more context is available on the [blog here](https://medium.com/@samapriyaroy/microsoft-building-footprints-in-gee-revisiting-scale-accessibility-eee5e97c17a3)
