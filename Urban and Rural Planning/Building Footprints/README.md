@@ -53,7 +53,7 @@ The datasets are released under the [Open Data Commons Open Database License](ht
 
 Created by: Microsoft
 
-Adapted in GEE by: Alexander Ariza
+Adapted in GEE by: Geoway
 
 Keywords: building footprint, machine learning, remote sensing, global
 
