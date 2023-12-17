@@ -71,10 +71,10 @@ The building extraction is done in two stages:
 2.	Polygonization – Converting building pixel detections into polygons
 
 #### Stage1: Semantic Segmentation
-![segmenation diagram](images/segmentation.jpg)
+![segmenation diagram](img/segmentation.jpg)
 
 #### Stage 2: Polygonization
-![polygonization diagram](images/polygonization.jpg)
+![polygonization diagram](img/polygonization.jpg)
 
 ### How do we estimate building height?
 We trained a neural network to estimate height above ground using imagery paired with height measurements, and then we take the 
