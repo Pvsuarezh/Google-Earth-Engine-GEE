@@ -28,6 +28,6 @@ Se aceptan contribuciones para mejorar y expandir este proyecto. Informes de pro
 
 ## Contacto
 
-Para consultas y colaboraciones, contáctanos [aquí](mailto:tu_correo@example.com).
+Para consultas y colaboraciones, contáctanos [aquí](mailto:alexanderariza@gmail.com).
 
 ¡Gracias por tu interés en este proyecto de planificación urbana y rural!
