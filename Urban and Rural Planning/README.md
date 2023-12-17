@@ -4,6 +4,7 @@ Este repositorio almacena scripts y recursos utilizados en proyectos de evaluaci
 <p align="center">
   <img src="img/12804.png" alt="Texto alternativo">
 </p>
+
 ## Descripción del Proyecto
 
 El enfoque del proyecto es analizar y comprender el crecimiento urbano, cambios en la infraestructura y planificación del uso del suelo para apoyar la toma de decisiones en desarrollo urbano y rural sostenible.
