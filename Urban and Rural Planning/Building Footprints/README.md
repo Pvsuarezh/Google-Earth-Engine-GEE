@@ -6,7 +6,7 @@
 
 ### Enlace a la APP: [Buildings-Footprint APP](https://ee-aariza.projects.earthengine.app/view/buildings-footprint)
 
-This is a GEE adaptation of the Bing Maps project that is releasing footprints of open buildings around the world. They have detected 777 million buildings from Bing Maps images between 2014 and 2021, including images from Maxar and Airbus. For completeness, data sets from previous versions were included in this data set. You can find the Github repo and more information about the [methodology here](https://github.com/microsoft/GlobalMLBuildingFootprints). Datasets are zipped and available as GeoJSON and GeoJSONL files from different regions. Additional information on preprocessing and some more context is available on the [blog here](https://medium.com/@samapriyaroy/microsoft-building-footprints-in-gee-revisiting-scale-accessibility-eee5e97c17a3)
+This is a GEE adaptation of the Bing Maps project that is releasing footprints of open buildings around the world. They have detected 777 million buildings from Bing Maps images between 2014 and 2021, including images from Maxar and Airbus. For completeness, data sets from previous versions were included in this data set. You can find the Github repo and more information about the [methodology here](https://github.com/microsoft/GlobalMLBuildingFootprints). Datasets are zipped and available as GeoJSON and GeoJSONL files from different regions. 
 
 ## Descripción
 
